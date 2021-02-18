@@ -21,5 +21,14 @@
     <ClCompile Include="codeup_1014.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="codeup_1015.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="codeup_1017.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="codeup_1018.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
